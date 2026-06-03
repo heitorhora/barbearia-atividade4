@@ -11,7 +11,8 @@ Sistema de agendamentos web desenvolvido com Flask e MySQL.
 
 ## 📄 Documentação
 Para visualizar o relatório técnico com as evidências do sistema, acesse:
-[📄 Relatório Técnico (PDF)](documentacao/Relatorio_Atividade_4.pdf)
+[📄 Relatório Técnico (PDF)]([Relatorio_Atividade_4.pdf]
+)
 
 ---
 *Desenvolvido por: Heitor Hora*
