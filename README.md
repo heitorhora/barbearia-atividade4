@@ -14,4 +14,4 @@ Para visualizar o relatório técnico com as evidências do sistema, acesse:
 [📄 Relatório Técnico (PDF)](documentacao/Relatorio_Atividade_4.pdf)
 
 ---
-*Desenvolvido por: Heitor Hora*
+*Desenvolvido por: Heitor da Hora*
